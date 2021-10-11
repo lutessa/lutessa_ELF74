@@ -1,0 +1,1 @@
+A mensagem "Hello World" aparece no Terminal I/O.
