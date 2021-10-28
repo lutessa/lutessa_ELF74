@@ -7,13 +7,13 @@
         <path>$WS_DIR$\..\TivaWare\driverlib\driverlib.ewp</path>
     </project>
     <project>
-        <path>$WS_DIR$\Lab\Lab.ewp</path>
-    </project>
-    <project>
         <path>$WS_DIR$\Lab1\lab1.ewp</path>
     </project>
     <project>
         <path>$WS_DIR$\Lab2\Lab2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Lab3\Lab3.ewp</path>
     </project>
     <batchBuild />
 </workspace>
