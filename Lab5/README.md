@@ -1,5 +1,5 @@
 |Thread Name|	Entry Function	|Stack size|	Priority|	Auto Start	|Time Slicing|
-|:-----:|:----:|:---:|:------------------:|:-----:|:-----:|:-------:|:----:|
+|:-----:|:----:|:---:|:------------------:|:-----:|:-----:|
 |thread 0	|thread_0_entry|	1024|	1	|yes|	no|
 |thread 1	|thread_1_entry	|1024	|16	|yes	|4|
 |thread 2|	thread_2_entry	|1024|	16	|yes	|4|
@@ -21,4 +21,4 @@
 |event flags 0|	event_flags_0	|||	
 
 
-![Test Image 1](/Diagram.jpeg)
+![Test Image 1](/Diagram.jpg)
