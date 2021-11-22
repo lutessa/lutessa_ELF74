@@ -21,4 +21,4 @@
 |event flags 0|	event_flags_0	|||	
 
 
-![Test Image 1](/Diagram.jpg)
+![Test Image 1](https://github.com/lutessa/lutessa_ELF74/blob/master/Lab5/Diagram.jpg)
