@@ -1,4 +1,4 @@
-|Thread |Name|	Entry| Function	|Stack size|	Priority|	Auto Start	|Time Slicing|
+|Thread Name|	Entry Function	|Stack size|	Priority|	Auto Start	|Time Slicing|
 |:-----:|:----:|:---:|:------------------:|:-----:|:-----:|:-------:|:----:|
 |thread 0	|thread_0_entry|	1024|	1	|yes|	no|
 |thread 1	|thread_1_entry	|1024	|16	|yes	|4|
@@ -20,3 +20,5 @@
 |block pool 0|	block_pool_0	|100|	pointer|
 |event flags 0|	event_flags_0	|||	
 
+
+![Test Image 1](/Diagram.jpeg)
