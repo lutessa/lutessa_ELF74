@@ -44,7 +44,7 @@
                 </option>
                 <option>
                     <name>MemFile</name>
-                    <state></state>
+                    <state>$TOOLKIT_DIR$\CONFIG\debugger\TexasInstruments\TM4C129ENCPDT.ddf</state>
                 </option>
                 <option>
                     <name>RunToEnable</name>
@@ -112,7 +112,7 @@
                 </option>
                 <option>
                     <name>FlashLoadersV3</name>
-                    <state>$TOOLKIT_DIR$\config\flashloader\</state>
+                    <state>$TOOLKIT_DIR$\config\flashloader\TexasInstruments\FlashTC4_NC.board</state>
                 </option>
                 <option>
                     <name>OCImagesSuppressCheck1</name>
@@ -1511,7 +1511,7 @@
             </plugin>
             <plugin>
                 <file>$TOOLKIT_DIR$\plugins\rtos\ThreadX\ThreadXArmPlugin.ENU.ewplugin</file>
-                <loadFlag>0</loadFlag>
+                <loadFlag>1</loadFlag>
             </plugin>
             <plugin>
                 <file>$EW_DIR$\common\plugins\Orti\Orti.ENU.ewplugin</file>
