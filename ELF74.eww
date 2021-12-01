@@ -21,5 +21,20 @@
     <project>
         <path>$WS_DIR$\Lab5\Lab5.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\Lab6a\Lab6a.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Lab6b\Lab6b.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Lab6c\Lab6c.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Lab6d\Lab6d.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Lab6e\Lab6e.ewp</path>
+    </project>
     <batchBuild />
 </workspace>

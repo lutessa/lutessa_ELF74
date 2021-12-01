@@ -1,4 +1,4 @@
-Lab Lab 6: 
+ Lab 6: 
 
 	O tempo de execução do loop foi medido através do uso de um cronômetro,
 	em 10 milhões de execuções o tempo atingido foi de 7,5s, portanto cada execução
