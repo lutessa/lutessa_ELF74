@@ -36,5 +36,8 @@
     <project>
         <path>$WS_DIR$\Lab6e\Lab6e.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\ProjetoFinal\ProjetoFinal.ewp</path>
+    </project>
     <batchBuild />
 </workspace>
